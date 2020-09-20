@@ -11,6 +11,9 @@ The Space Combat Edition is also known as a Kosmosima.
 
   + In the US, this joystick can be found [here](https://vkbcontrollers.com/?product=gunfighter-mk-ii-space-combat-edition).
   Note that if you place an order, it ships DHL from Asia.
+  
+  + I picked up the Space Combat Edition / Kosmosima because I have small-ish hands and this stick is known to be good for people with smaller hands.
+  I also got it because I intend to play Star Wars Squadrons :)
 
   + The control template file is named **"VKB Space Combat Edition (SCE) AKA Kosmosima Premium Right (Used With VPC CM2 Throttle and Gunfighter Mk.III Base-Gimbal)"**.
   I have a Microsoft PowerPoint (PPTX) version available, which should be editable for most folks.
