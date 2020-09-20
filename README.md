@@ -4,7 +4,7 @@ This repository contains recommended control mappings/setups for hands-on thrott
 
 ## Equipment That I Use
 
-I use the following:
+I am just getting started and will probably customize my control mapping over time. With that said, I use the following:
 
 + VKB Gunfighter Mark 3 (Mk.III) Base/Gimbal with a Space Combat Edition (SCE) Premium Right Right (i.e., right-handed stick).
 The Space Combat Edition is also known as a Kosmosima.
