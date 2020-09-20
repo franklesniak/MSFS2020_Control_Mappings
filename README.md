@@ -1,12 +1,13 @@
 # Microsoft Flight Simulator 2020 (Also Known as MSFS2020 or FS2020) Control/Button Mappings
 
 This repository contains recommended control mappings/setups for hands-on throttle and stick (HOTAS) equipment.
+I am just getting started and will probably customize my control mapping over time.
 
 ## Equipment That I Use
 
-I am just getting started and will probably customize my control mapping over time. With that said, I use the following:
+I use the following equipment:
 
-+ VKB Gunfighter Mark 3 (Mk.III) Base/Gimbal with a Space Combat Edition (SCE) Premium Right Right (i.e., right-handed stick).
++ VKB Gunfighter Mark 3 (Mk.III) Base/Gimbal with a Space Combat Edition (SCE) Premium Right (i.e., right-handed stick).
 The Space Combat Edition is also known as a Kosmosima.
 
   + In the US, this joystick can be found [here](https://vkbcontrollers.com/?product=gunfighter-mk-ii-space-combat-edition).
