@@ -22,6 +22,10 @@ The Space Combat Edition is also known as a Kosmosima.
    Note that if you place an order to the US, I _highly recommend_ paying a little extra to ship via DHL.
    For whatever reason, my experience has always been that DHL clears customs much more quickly than other shipping couriers.
 
+  + Based on some advice from agarwaen117 on Reddit, I wanted to use T1 - T4 as momentary on/off switches (flipping up = momentary button press, flipping off = different momentary button press).
+  To do this, I had to customize my CM2 setup.
+  Review the file **"Virpil CM2 Throttle Customizations for MSFS2020"** for more information on how to replicate my configuration.
+
   + The control template file is named **"Virpil-VPC MongoosT-50CM2 Throttle With T1-T4 Customized"**.
   I have a Microsoft PowerPoint (PPTX) version available, which should be editable for most folks.
   I also have a PDF version for folks that want to print and handwrite (or use Adobe Pro).
